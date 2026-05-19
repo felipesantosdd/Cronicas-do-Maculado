@@ -152,7 +152,7 @@ class ObsManager:
         msg_box.setIcon(QMessageBox.Icon.Information)
 
         # Použijeme HTML pro bohaté formátování
-        title_app = "<h3>Passo 1: Configurar na Crônica do Manchado</h3>"
+        title_app = "<h3>Passo 1: Configurar nas Crônicas do Maculado</h3>"
         steps_app = """
         <ol>
             <li><b>Ativar o Recurso:</b> Clique no botão principal no topo deste painel para ativar a escrita de arquivos.</li>

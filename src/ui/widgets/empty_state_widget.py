@@ -52,7 +52,7 @@ class EmptyStateWidget(QWidget):
         """
         if state == "select_file":
             self.icon_label.setPixmap(QPixmap(get_resource_path("assets/icons/file-text.svg")).scaled(48, 48, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))
-            self.title_label.setText("Bem-vindo à Crônica do Manchado")
+            self.title_label.setText("Bem-vindo às Crônicas do Maculado")
             self.instruction_label.setText("Para começar, selecione seu arquivo de save do Elden Ring (.sl2 para Vanilla ou .co2 para Seamless Coop) usando o botão no menu à esquerda.")
         elif state == "select_character":
             self.icon_label.setPixmap(QPixmap(get_resource_path("assets/icons/user.svg")).scaled(48, 48, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))

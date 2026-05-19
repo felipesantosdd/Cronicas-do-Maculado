@@ -1,4 +1,4 @@
-# 🏰 A Crônica do Manchado
+# ⚔️ Crônicas do Maculado
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ## 📖 Sobre
 
-**A Crônica do Manchado** é uma aplicação desktop completa para Windows desenvolvida para fãs de Elden Ring que desejam acompanhar detalhadamente sua jornada pelas Terras Intermédias. Não é apenas uma lista estática — é um companheiro interativo e visualmente agradável que monitora seu progresso em tempo real e motiva você a explorar cada canto do mundo do jogo.
+**Crônicas do Maculado** é uma aplicação desktop completa para Windows desenvolvida para fãs de Elden Ring que desejam acompanhar detalhadamente sua jornada pelas Terras Intermédias. Não é apenas uma lista estática — é um companheiro interativo e visualmente agradável que monitora seu progresso em tempo real e motiva você a explorar cada canto do mundo do jogo.
 
 > Esta é uma versão totalmente em **Português do Brasil**, com nomes de chefes e localizações conforme a tradução oficial da Bandai Namco.
 >

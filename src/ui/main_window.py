@@ -42,7 +42,7 @@ import webbrowser
 class BossChecklistApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("A Crônica do Manchado")
+        self.setWindowTitle("Crônicas do Maculado")
         self.setGeometry(600, 200, 1000, 900)
         self.setWindowIcon(QIcon(get_resource_path("assets/icons/app_logo.ico")))
 
