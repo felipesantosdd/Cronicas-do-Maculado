@@ -1,0 +1,217 @@
+{
+  "Limgrave": [
+    {"event_id": 18000850, "name": "Soldado de Godrick", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Soldier_of_Godrick.png"},
+    {"event_id": 1045390800, "name": "Marujo Tíbia", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Tibia_Mariner.png"},
+    {"event_id": 1044360800, "name": "Cabeça de Abóbora Louca", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Mad_Pumpkin_Head.png"},
+    {"event_id": 1044350800, "name": "Cavaleiro Sabujo Darriwil", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Bloodhound_Knight_Darriwil.png"},
+    {"event_id": 1043370800, "name": "Cavalaria Noturna", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Night's_Cavalry.png"},
+    {"event_id": 10010800, "name": "Rebento Enxertado", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Grafted_Scion.png"},
+    {"event_id": 1043360800, "name": "Dragão Voador Agheel", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Flying_Dragon_Agheel.png"},
+    {"event_id": 30020800, "name": "Cão de Guarda do Túmulo da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Erdtree_Burial_Watchdog.png"},
+    {"event_id": 1042380850, "name": "Caçador de Sinos", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Bell_Bearing_Hunter.png"},
+    {"event_id": 1042380800, "name": "Pássaro da Morte", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/DeathBird.png"},
+    {"event_id": 1042370800, "name": "Cavaleiro do Crisol", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Crucible_Knight.png"},
+    {"event_id": 1042360800, "name": "Sentinela da Árvore", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Tree_Sentinel.png"},
+    {"event_id": 30040800, "name": "Duelista Guarda-Túmulo", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Grave_Warden_Duelist.png"},
+    {"event_id": 30110800, "name": "Assassino de Faca Negra", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Black_Knife_Assassin.png"},
+    {"event_id": 31000800, "name": "Patches", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Patches.png"},
+    {"event_id": 31030800, "name": "Homem-Besta de Farum Azula", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Beastman_of_Farum_Azula.png"},
+    {"event_id": 31150800, "name": "Chefe Semi-Humano", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Demi-Human_Chief.png"},
+    {"event_id": 31170800, "name": "Golem Guardião", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Guardian_Golem.png"},
+    {"event_id": 32010800, "name": "Troll Escavador de Pedras", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Stonedigger_Troll.png"},
+    {"event_id": 18000800, "name": "Espírito da Árvore Ulcerado", "is_defeated": false, "location_image": "Bosses_locations/Limgrave/Ulcerated_Tree_Spirit.png"}
+  ],
+  "Península do Pranto": [
+    {"event_id": 30000800, "name": "Sombra do Cemitério", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Cemetery_Shade.png"},
+    {"event_id": 30010800, "name": "Cão de Guarda do Túmulo da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Erdtree_Burial_Watchdog.png"},
+    {"event_id": 1044320850, "name": "Cavalaria Noturna", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Night's_Cavalry.png"},
+    {"event_id": 1044320800, "name": "Pássaro da Morte", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Deathbird.png"},
+    {"event_id": 1043300800, "name": "Bastardo Leonino", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Leonine_Misbegotten.png"},
+    {"event_id": 1043330800, "name": "Avatar da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Erdtree_Avatar.png"},
+    {"event_id": 1042330800, "name": "Herói Ancestral de Zamor", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Ancient_Hero_of_Zamor.png"},
+    {"event_id": 31010800, "name": "Urso Rúnico", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Runebear.png"},
+    {"event_id": 31020800, "name": "Miranda, a Flor Maligna", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Miranda_the_Blighted_Bloom.png"},
+    {"event_id": 32000800, "name": "Bastardo Escamoso", "is_defeated": false, "location_image": "Bosses_locations/Weeping Peninsula/Scaly_Misbegotten.png"}
+  ],
+  "Castelo Tempesvéu": [
+    {"event_id": 10000850, "name": "Margit, o Agouro Caído", "is_defeated": false, "location_image": "Bosses_locations/Stormveil Castle/Margit_the_Fell_Omen.png"},
+    {"event_id": 10000800, "name": "Godrick o Enxertado", "is_defeated": false, "location_image": "Bosses_locations/Stormveil Castle/Godrick_the_Grafted.png"}
+  ],
+  "Liurnia dos Lagos": [
+    {"event_id": 30030800, "name": "Caracol Invocador de Espíritos", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Spiritcaller_Snail.png"},
+    {"event_id": 30050800, "name": "Sombra do Cemitério", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Cemetery_Shade.png"},
+    {"event_id": 30050850, "name": "Assassino de Faca Negra", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Black_Knife_Assasin.png"},
+    {"event_id": 30060800, "name": "Cão de Guarda do Túmulo da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Erdtree_Burial_Watchdog.png"},
+    {"event_id": 31040800, "name": "Cavaleiro Imaculado", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Cleanrot_Knight.png"},
+    {"event_id": 31050800, "name": "Cavaleiro Sabujo", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Bloodhound_Knight.png"},
+    {"event_id": 31060800, "name": "Duo de Cristalianos", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Crystalian_Duo.png"},
+    {"event_id": 1039440800, "name": "Marujo Tíbia", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Tibia_Mariner.png"},
+    {"event_id": 1038410800, "name": "Adan, Ladrão do Fogo", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Adan.png"},
+    {"event_id": 1038480800, "name": "Avatar da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Edtree_Avatar_Mausoleum.png"},
+    {"event_id": 1037460800, "name": "Caçador de Sinos", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Bell_Bearing_Hunter.png"},
+    {"event_id": 1036500800, "name": "Senhor Ônix", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Onyx_Lord.png"},
+    {"event_id": 32020800, "name": "Cristaliano", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Crystalian_Raya_Lucaria.png"},
+    {"event_id": 1034450800, "name": "Dragão Pedra-de-Luz Smarag", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Glinstone_Dragon_Smarag.png"},
+    {"event_id": 1034480800, "name": "Revenant Real", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Royal_Revenant.png"},
+    {"event_id": 1035420800, "name": "Matador de Presságios", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Omenkiller.png"},
+    {"event_id": 1035500800, "name": "Cavaleira Real Loretta", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Royal_Knight_Loretta.png"},
+    {"event_id": 1033430800, "name": "Avatar da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Erdtree_Avatar_Revenger.png"},
+    {"event_id": 1033450800, "name": "Bols, Cavaleiro Carian", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Bols_Carian_Knight.png"},
+    {"event_id": 1039430800, "name": "Cavalaria Noturna", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Night's_Cavalry_Bellum_Church.png"},
+    {"event_id": 1036480800, "name": "Cavalaria Noturna", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Night's_Cavalry_Gate_Town.png"},
+    {"event_id": 1037420800, "name": "Pássaro da Morte", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Deathbird.png"},
+    {"event_id": 39200800, "name": "Víbora de Magma Makar", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Magma_Wyrm_Makar.png"},
+    {"event_id": 1036450800, "name": "Pássaro do Ritual da Morte", "is_defeated": false, "location_image": "Bosses_locations/Liurnia of the Lakes/Death_Rite_Bird.png"}
+  ],
+  "Academia de Raya Lucaria": [
+    {"event_id": 14000850, "name": "Lobo Vermelho de Radagon", "is_defeated": false, "location_image": "Bosses_locations/Academy of Raya Lucaria/Red_Wolf.png"},
+    {"event_id": 14000800, "name": "Rennala, Rainha da Lua Cheia", "is_defeated": false, "location_image": "Bosses_locations/Academy of Raya Lucaria/Rennala.png"}
+  ],
+  "Rio Siofra": [
+    {"event_id": 12080800, "name": "Espírito Ancestral", "is_defeated": false, "location_image": "Bosses_locations/Siofra River/Ancestor_Spirit.png"},
+    {"event_id": 12020830, "name": "Soldado Dracônico", "is_defeated": false, "location_image": "Bosses_locations/Siofra River/Dragonkin_Soldier.png"}
+  ],
+  "Rio Ainsel": [
+    {"event_id": 12010800, "name": "Soldado Dracônico de Nokstella", "is_defeated": false, "location_image": "Bosses_locations/Ainsel River/Dragonkin_Soldier_of_Nokstella.png"}
+  ],
+  "Caelid": [
+    {"event_id": 30150800, "name": "Sombra do Cemitério", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Cemetery_Shade.png"},
+    {"event_id": 1049380800, "name": "Comandante O'Neil", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Commander_O'Neil.png"},
+    {"event_id": 1051360800, "name": "Guerreiro Bastardo e Cavaleiro do Crisol", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Misbegotten_Warrior_and_Crucible_Knight.png"},
+    {"event_id": 1049370850, "name": "Pássaro do Ritual da Morte", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Death_Rite_Bird.png"},
+    {"event_id": 1048370800, "name": "Ekzykes em Decomposição", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Decaying_Ekzykes.png"},
+    {"event_id": 30140800, "name": "Duo de Cães de Guarda do Túmulo da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Erdtree_Burial_Watchdog_Duo.png"},
+    {"event_id": 32080800, "name": "Besta Estrela Cadente", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Fallingstar_Beast.png"},
+    {"event_id": 31210800, "name": "Duelista Frenético", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Frenzied_Duelist.png"},
+    {"event_id": 1048400800, "name": "Duo de Cabeças de Abóbora Loucas", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Mad_Pumpkin_Head_Duo.png"},
+    {"event_id": 32070800, "name": "Víbora de Magma", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Magma_Wyrm.png"},
+    {"event_id": 1049370800, "name": "Cavalaria Noturna", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Night's_Cavalry.png"},
+    {"event_id": 1049390800, "name": "Espadachim Nox e Sacerdote Nox", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Nox_Swordstress_and_Nox_Priest.png"},
+    {"event_id": 1047400800, "name": "Avatar Pútrido", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Putrid_Avatar.png"},
+    {"event_id": 1252380800, "name": "Flagelo Estelar Radahn", "is_defeated": false, "location_image": "Bosses_locations/Caelid/Starscourge_Radahn.png"}
+  ],
+  "Planalto Altus": [
+    {"event_id": 1041520800, "name": "Dragão Ancestral Lansseax", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Ancient_Dragon_Lansseax.png"},
+    {"event_id": 30080800, "name": "Herói Ancestral de Zamor", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Ancient_Hero_of_Zamor.png"},
+    {"event_id": 31190800, "name": "Assassino de Faca Negra", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Black_Knife_Assassin.png"},
+    {"event_id": 1040520800, "name": "Assassino de Faca Negra (Caverna)", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Black_Knife_Assassin_Sage_Cave.png"},
+    {"event_id": 32050800, "name": "Cristaliano - Lâmina Anular/Lança", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Crystalian_Ringblade_Spear.png"},
+    {"event_id": 1038510800, "name": "Rainha Semi-Humana Gilika", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Demi-Human_Queen_Gilika.png"},
+    {"event_id": 9182, "name": "Elemer dos Espinheiros", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Elemer_of_the_Briar.png"},
+    {"event_id": 30070800, "name": "Cão de Guarda do Túmulo da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Erdtree_Burial_Watchdog.png"},
+    {"event_id": 1041500800, "name": "Besta Estrela Cadente", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Fallingstar_Beast.png"},
+    {"event_id": 1039500800, "name": "Godefroy o Enxertado", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Godefroy_the_Grafted.png"},
+    {"event_id": 1042550800, "name": "Apóstolo da Pele Divina", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Godskin_Apostle.png"},
+    {"event_id": 31190850, "name": "Necromante Garris", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Necromancer_Garris.png"},
+    {"event_id": 1039510800, "name": "Cavalaria Noturna", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Night's_Cavalry.png"},
+    {"event_id": 31180800, "name": "Matador de Presságios & Miranda", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Omenkiller_and_Miranda.png"},
+    {"event_id": 30120800, "name": "Perfumista Tricia & Guerreiro Bastardo", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Perfumer_Tricia_and_Misbegotten_Warrior.png"},
+    {"event_id": 1040530800, "name": "Nobre Sanguíneo", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Sanguine_Noble.png"},
+    {"event_id": 32040800, "name": "Troll Escavador de Pedras", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Stonedigger_Troll.png"},
+    {"event_id": 1038520800, "name": "Marujo Tíbia", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Tibia_Mariner.png"},
+    {"event_id": 1041510800, "name": "Sentinelas da Árvore", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Tree_Sentinels.png"},
+    {"event_id": 1041530800, "name": "Cara de Verme", "is_defeated": false, "location_image": "Bosses_locations/Altus Plateau/Wormface.png"}
+  ],
+  "Monte Gelmir": [
+    {"event_id": 16000860, "name": "Virgens Abdutoras (Duo)", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Abductor_Virgins.png"},
+    {"event_id": 1037530800, "name": "Rainha Semi-Humana Maggie", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Demi-Human_Queen_Maggie.png"},
+    {"event_id": 31090800, "name": "Rainha Semi-Humana Margot", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Demi-Human_Queen_Margot.png"},
+    {"event_id": 1036540800, "name": "Besta Estrela Cadente Adulta", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Full-Grown_Fallingstar_Beast.png"},
+    {"event_id": 16000850, "name": "Nobre da Pele Divina", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Godskin_Noble.png"},
+    {"event_id": 16000800, "name": "Rykard, Lorde Blasfemo", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Rykard.png"},
+    {"event_id": 31070800, "name": "Parentes da Podridão", "is_defeated": false, "location_image": null},
+    {"event_id": 1035530800, "name": "Víbora de Magma", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Magma_Wyrm.png"},
+    {"event_id": 30090800, "name": "Lobo Vermelho do Campeão", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Red_Wolf_of_the_Champion.png"},
+    {"event_id": 1037540810, "name": "Espírito da Árvore Ulcerado", "is_defeated": false, "location_image": "Bosses_locations/Mt. Gelmir/Ulcerated_Tree_Spirit.png"}
+  ],
+  "Arredores da Capital": [
+    {"event_id": 1043530800, "name": "Caçador de Sinos", "is_defeated": false, "location_image": "Bosses_locations/Capital Outskirts/Bell_Bearing_Hunter.png"},
+    {"event_id": 1044530800, "name": "Pássaro da Morte", "is_defeated": false, "location_image": "Bosses_locations/Capital Outskirts/Deathbird.png"},
+    {"event_id": 1045520800, "name": "Sentinela Dracônica da Árvore", "is_defeated": false, "location_image": "Bosses_locations/Capital Outskirts/Draconic_Tree_Sentinel.png"},
+    {"event_id": 34140850, "name": "Gêmeos Caídos", "is_defeated": false, "location_image": "Bosses_locations/Capital Outskirts/Fell_Twins.png"},
+    {"event_id": 30130800, "name": "Duelista Guarda-Túmulo", "is_defeated": false, "location_image": "Bosses_locations/Capital Outskirts/Grave_Warden_Duelist.png"},
+    {"event_id": 30100800, "name": "Cavaleiro do Crisol & Cavaleiro do Crisol Ordovis", "is_defeated": false, "location_image": "Bosses_locations/Capital Outskirts/Crucible_Knight_and_Crucible_Knight_Ordovis.png"},
+    {"event_id": 34120800, "name": "Senhor Ônix", "is_defeated": false, "location_image": "Bosses_locations/Capital Outskirts/Onyx_Lord.png"}
+  ],
+  "Nokron, Cidade Eterna": [
+    {"event_id": 12020850, "name": "Lágrima Mímica", "is_defeated": false, "location_image": "Bosses_locations/Nokron/Mimic_Tear.png"},
+    {"event_id": 12090800, "name": "Espírito Ancestral Real", "is_defeated": false, "location_image": "Bosses_locations/Nokron/Regal_Ancestor_Spirit.png"},
+    {"event_id": 12020800, "name": "Duo de Gárgulas Valorosas", "is_defeated": false, "location_image": "Bosses_locations/Nokron/Valiant_Gargoyle_Duo.png"}
+  ],
+  "Profundezas das Raízes": [
+    {"event_id": 12030800, "name": "Campeões de Fia", "is_defeated": false, "location_image": "Bosses_locations/Deeproot Depths/Fia's_Champions.png"},
+    {"event_id": 12030390, "name": "Cavaleiro do Crisol Siluria", "is_defeated": false, "location_image": "Bosses_locations/Deeproot Depths/Crucible_Knight_Siluria.png"},
+    {"event_id": 12030850, "name": "Lich-Dragão Fortissax", "is_defeated": false, "location_image": "Bosses_locations/Deeproot Depths/Lichdragon_Fortissax.png"}
+  ],
+  "Lago da Podridão": [
+    {"event_id": 12010850, "name": "Soldado Dracônico", "is_defeated": false, "location_image": "Bosses_locations/Lake of Rot/Dragonkin_Soldier.png"},
+    {"event_id": 12040800, "name": "Astel, Nascido Natural do Vazio", "is_defeated": false, "location_image": "Bosses_locations/Lake of Rot/Astel_Naturalborn_of_the_Void.png"}
+  ],
+  "Leyndell, Capital Real": [
+    {"event_id": 35000850, "name": "Esgar, Sacerdote do Sangue", "is_defeated": false, "location_image": "Bosses_locations/Leyndell Royal Capital/Esgar_Priest_of_Blood.png"},
+    {"event_id": 11000850, "name": "Godfrey, Primeiro Lorde Éldico", "is_defeated": false, "location_image": "Bosses_locations/Leyndell Royal Capital/Godfrey_First_Elden_Lord.png"},
+    {"event_id": 35000800, "name": "Mohg, o Presságio", "is_defeated": false, "location_image": "Bosses_locations/Leyndell Royal Capital/Mohg_The_Omen.png"},
+    {"event_id": 11000800, "name": "Morgott, o Rei Presságio", "is_defeated": false, "location_image": "Bosses_locations/Leyndell Royal Capital/Morgott_the_Omen_King.png"}
+  ],
+  "Dragonbarrow": [
+    {"event_id": 1049390850, "name": "Mago de Batalha Hugues", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Battlemage_Hugues.png"},
+    {"event_id": 31100800, "name": "Homem-Besta de Farum Azula", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Beastman_of_Farum_Azula.png"},
+    {"event_id": 1048410800, "name": "Caçador de Sinos", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Bell_Bearing_Hunter.png"},
+    {"event_id": 1051430800, "name": "Irmandade da Lâmina Negra", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Black_Blade_Kindred.png"},
+    {"event_id": 31200800, "name": "Cavaleiros Imaculados", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Cleanrot_Knights.png"},
+    {"event_id": 1052410800, "name": "Dragão Voador Greyll", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Flying_Dragon_Greyll.png"},
+    {"event_id": 34130800, "name": "Apóstolo da Pele Divina", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Godskin_Apostle.png"},
+    {"event_id": 1052410850, "name": "Cavalaria Noturna", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Night's_Cavalry.png"},
+    {"event_id": 1051400800, "name": "Avatar Pútrido", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Putrid_Avatar.png"},
+    {"event_id": 31110800, "name": "Cristalianos Pútridos", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Crystalians.png"},
+    {"event_id": 30160800, "name": "Espírito da Árvore Pútrido", "is_defeated": false, "location_image": "Bosses_locations/Dragonbarrow/Putrid_Tree_Spirit.png"}
+  ],
+  "Altar da Luz da Lua": [
+    {"event_id": 1033420800, "name": "Alecto, Chefe dos Assassinos de Faca Negra", "is_defeated": false, "location_image": "Bosses_locations/Moonlight Altar/Alecto_Black_Knife_Ringleader.png"},
+    {"event_id": 1034420800, "name": "Dragão Pedra-de-Luz Adula", "is_defeated": false, "location_image": "Bosses_locations/Moonlight Altar/Glintstone_Dragon_Adula.png"}
+  ],
+  "Terras Proibidas": [
+    {"event_id": 1049520800, "name": "Irmandade da Lâmina Negra", "is_defeated": false, "location_image": null},
+    {"event_id": 1048510800, "name": "Cavalaria Noturna", "is_defeated": false, "location_image": null}
+  ],
+  "Cumes dos Gigantes": [
+    {"event_id": 30170800, "name": "Herói Ancestral de Zamor", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Ancient_Hero_of_Zamor.png"},
+    {"event_id": 1254560800, "name": "Borealis, a Névoa Congelante", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Borealis_the_Freezing_Fog.png"},
+    {"event_id": 1051570800, "name": "Comandante Niall", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Commander_Niall.png"},
+    {"event_id": 1050570800, "name": "Pássaro do Ritual da Morte", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Death_Rite_Bird.png"},
+    {"event_id": 1052560800, "name": "Avatar da Érdtree", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Erdtree_Avatar.png"},
+    {"event_id": 1052520800, "name": "Gigante de Fogo", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Fire_Giant.png"},
+    {"event_id": 31220800, "name": "Apóstolo & Nobre da Pele Divina & Caracol Invocador", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Godskin_Apostle_Godskin_Noble_Spiritcaller_Snail.png"},
+    {"event_id": 30180800, "name": "Espírito da Árvore Ulcerado", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Ulcerated_Tree_Spirit.png"},
+    {"event_id": 1053560800, "name": "Vyke, Cavaleiro da Mesa Redonda", "is_defeated": false, "location_image": "Bosses_locations/Mountaintops of the Giants/Vyke_Knight_of_the_Roundtable.png"}
+  ],
+  "Campo Nevado Consagrado": [
+    {"event_id": 32110800, "name": "Astel, Estrelas das Trevas", "is_defeated": false, "location_image": "Bosses_locations/Consecrated Snowfield/Astel_Stars_of_Darkness.png"},
+    {"event_id": 1048570800, "name": "Pássaro do Ritual da Morte", "is_defeated": false, "location_image": "Bosses_locations/Consecrated Snowfield/Death_Rite_Bird.png"},
+    {"event_id": 1050560800, "name": "Grande Víbora Theodorix", "is_defeated": false, "location_image": "Bosses_locations/Consecrated Snowfield/Great_Wyrm_Theodorix.png"},
+    {"event_id": 1248550800, "name": "Duo da Cavalaria Noturna", "is_defeated": false, "location_image": "Bosses_locations/Consecrated Snowfield/Night's_Cavalry.png"},
+    {"event_id": 1050570850, "name": "Avatar Pútrido", "is_defeated": false, "location_image": "Bosses_locations/Consecrated Snowfield/Putrid_Avatar.png"},
+    {"event_id": 30190800, "name": "Duelista Guarda-Túmulo Pútrido", "is_defeated": false, "location_image": "Bosses_locations/Consecrated Snowfield/Putrid_Grave_Warden_Duelist.png"},
+    {"event_id": 30200800, "name": "Lágrima Mímica Errante", "is_defeated": false, "location_image": "Bosses_locations/Consecrated Snowfield/Stray_Mimic_Tear.png"},
+    {"event_id": 31120800, "name": "Cruzado Bastardo", "is_defeated": false, "location_image": "Bosses_locations/Consecrated Snowfield/Misbegotten_Crusader.png"}
+  ],
+  "Mausoléu da Dinastia Mohgwyn": [
+    {"event_id": 12050800, "name": "Mohg, Lorde do Sangue", "is_defeated": false, "location_image": "Bosses_locations/Mohgwyn Dynasty Mausoleum/Mohg_Lord_of_Blood.png"}
+  ],
+  "Farum Azula em Ruínas": [
+    {"event_id": 13000850, "name": "Duo da Pele Divina", "is_defeated": false, "location_image": "Bosses_locations/Crumbling Farum Azula/Godskin_Duo.png"},
+    {"event_id": 13000800, "name": "Maliketh, a Lâmina Negra", "is_defeated": false, "location_image": "Bosses_locations/Crumbling Farum Azula/Maliketh_the_Black_Blade.png"},
+    {"event_id": 13000830, "name": "Senhor dos Dragões Placidusax", "is_defeated": false, "location_image": "Bosses_locations/Crumbling Farum Azula/Dragonlord_Placidusax.png"}
+  ],
+  "Árvore Sagrada de Miquella": [
+    {"event_id": 15000850, "name": "Loretta, Cavaleira da Árvore Sagrada", "is_defeated": false, "location_image": "Bosses_locations/Miquella's Haligtree/Loretta_Knight_of_the_Haligtree.png"},
+    {"event_id": 15000800, "name": "Malenia, Espada de Miquella", "is_defeated": false, "location_image": "Bosses_locations/Miquella's Haligtree/Malenia_Blade_of_Miquella.png"}
+  ],
+  "Leyndell, Capital das Cinzas": [
+    {"event_id": 11050850, "name": "Cavaleiro Gideon Ofnir, o Onisciente", "is_defeated": false, "location_image": "Bosses_locations/Leyndell Ashen Capital/Sir_Gideon_Ofnir_the_All-Knowing.png"},
+    {"event_id": 11050800, "name": "Godfrey, Primeiro Lorde Éldico (Hoarah Loux)", "is_defeated": false, "location_image": "Bosses_locations/Leyndell Ashen Capital/Godfrey_First_Elden_Lord.png"}
+  ],
+  "Trono Éldico": [
+    {"event_id": 19000800, "name": "Radagon da Ordem Áurea & Fera Prístina", "is_defeated": false, "location_image": "Bosses_locations/Elden Throne/Radagon_of_the_Golden_Order_and_Elden_Beast.png"}
+  ]
+}

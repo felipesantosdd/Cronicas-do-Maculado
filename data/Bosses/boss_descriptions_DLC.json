@@ -1,0 +1,24 @@
+{
+  "Planície do Túmulo": [
+    {
+      "event_id": 11000850,
+      "description": "Uma Fera Divina em forma de leão que realiza uma dança frenética de tempestades e relâmpagos. Primeiro grande guardião da Terra das Sombras, encontrado na Planície do Túmulo após cruzar o Mausoléu Scadu."
+    },
+    {
+      "event_id": 11000851,
+      "description": "Um cavaleiro encerrado em uma Masmorra Negra na Planície do Túmulo. Chefe opcional de elevada dificuldade que guarda um tesouro valioso. Sua presença na masmorra envolve um mistério ligado aos segredos da Terra das Sombras."
+    }
+  ],
+  "Scadu Altus": [
+    {
+      "event_id": 11000852,
+      "description": "O Filho Renegado de Marika, encarregado de queimar o mundo com suas Serpentes de Fogo. Empalador temido e poderoso, Messmer governa o Castelo das Sombras no coração de Scadu Altus. Sua história com Miquella e Marika é um dos maiores segredos da Terra das Sombras."
+    }
+  ],
+  "Enir-Ilim": [
+    {
+      "event_id": 11000853,
+      "description": "Radahn ressuscitado por Miquella para servir como seu consorte e recipiente divino. O guerreiro mais poderoso das Terras Entre retorna transformado, fundido com a vontade de Miquella na torre celestial de Enir-Ilim. Chefe final da DLC Shadow of the Erdtree."
+    }
+  ]
+}

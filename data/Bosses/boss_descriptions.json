@@ -1,0 +1,78 @@
+{
+  "Limgrave": [
+    {
+      "event_id": 10000850,
+      "description": "Um guerreiro corrompido que serve como guardião da entrada para as Terras Entre. Derrote-o para começar sua jornada como Manchado."
+    },
+    {
+      "event_id": 10000851,
+      "description": "Um cavaleiro dourado montado que patrulha as estradas de Limgrave, guardando o caminho para Leyndell. Chefe opcional de grande dificuldade para iniciantes."
+    },
+    {
+      "event_id": 10000852,
+      "description": "Um vidente imortal e maldito que bloqueia a entrada do Castelo Tempesvéu. Criatura astuta e cruel, usa magia obscura e ataques físicos poderosos para esmagar os Manchados que ousam desafiá-lo."
+    }
+  ],
+  "Castelo Tempesvéu": [
+    {
+      "event_id": 10000853,
+      "description": "Semideus governante do Castelo Tempesvéu. Obcecado pelo poder, enxertou membros e corpos de outros seres em si mesmo. Senhor menor da linhagem Dourada, mas detentor de uma Grande Runa."
+    }
+  ],
+  "Academia de Raya Lucaria": [
+    {
+      "event_id": 10000854,
+      "description": "Antiga rainha dos Carianos e diretora da Academia de Raya Lucaria. Após a partida de Radagon, entregou-se ao luto. Possui uma das Grandes Runas e é guardiã dos segredos da magia de Glintstone."
+    }
+  ],
+  "Caelid": [
+    {
+      "event_id": 10000855,
+      "description": "Um dos semideuses mais poderosos das Terras Entre. Infectado pela Podridão Escarlate durante a batalha contra Malenia, permanece preso em Caelid. Lendário por segurar as estrelas no céu com sua força gravitacional."
+    }
+  ],
+  "Monte Gelmir": [
+    {
+      "event_id": 10000856,
+      "description": "Semideus que se fundiu voluntariamente com a Grande Serpente Devoradora de Deuses. Blasfemo por natureza, busca devorar os próprios deuses para acumular poder absoluto. Governa a Mansão Vulcânica no Monte Gelmir."
+    }
+  ],
+  "Leyndell, Capital Real": [
+    {
+      "event_id": 10000857,
+      "description": "O Rei Agouro que governa e protege Leyndell na ausência de Marika. Verdadeiro guardião da capital, oculta sua natureza maldita de Agouro sob armadura real. Um dos filhos rejeitados de Marika."
+    }
+  ],
+  "Árvore Sacra de Miquella": [
+    {
+      "event_id": 10000858,
+      "description": "A guerreira mais formidável das Terras Entre. Nunca conheceu a derrota em batalha, mas carrega a maldição da Podridão Escarlate desde o nascimento. Protege Miquella na Árvore Sacra com devoção absoluta."
+    }
+  ],
+  "Mausoléu da Dinastia Mohgwyn": [
+    {
+      "event_id": 10000859,
+      "description": "Semideus Agouro que cultua o sangue e o caos. Fundador da Dinastia Mohgwyn, sequestrou Miquella para usá-lo como recipiente de um novo deus. Recebeu poderes divinos de Sangue de uma entidade além do Anel Prístino."
+    }
+  ],
+  "Ruína de Farum Azula": [
+    {
+      "event_id": 10000860,
+      "description": "O Guardião da Runa da Morte e fiel servo de Marika. Portador da Lâmina Negra forjada com a própria divindade de Destined Death. Responsável por selar a Runa da Morte após o assassinato de Godwyn, o Dourado."
+    }
+  ],
+  "Leyndell, Capital Cinzenta": [
+    {
+      "event_id": 10000861,
+      "description": "O primeiro e mais lendário dos Lordes Elden, consorte original de Marika. Um guerreiro incomparável que conquistou as Terras Entre e foi banido quando sua Graça foi extinguida. Retorna como o espectro Hoarah Loux antes de revelar sua verdadeira forma."
+    },
+    {
+      "event_id": 10000862,
+      "description": "A face masculina e guerreira de Marika, a Deusa. Radagon restaurou a Ordem Áurea e se tornou consorte de Rennala antes de retornar a Marika. Luta para proteger o Anel Prístino dos Manchados em seu estágio final."
+    },
+    {
+      "event_id": 10000863,
+      "description": "A manifestação viva do Anel Prístino, enviada pelos Deuses Maiores além das estrelas para guardar o Anel nas Terras Entre. Forma final do confronto, encarna a ordem cósmica que os Manchados buscam reformar ou destruir."
+    }
+  ]
+}

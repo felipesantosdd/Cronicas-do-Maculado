@@ -1,0 +1,64 @@
+{
+  "Planície Tumular": [
+    {"event_id": 2046410800, "name": "Cavaleiro da Masmorra Negra", "is_defeated": false, "location_image": "Bosses_locations/Gravesite Plain/Blackgaol_Knight.png"},
+    {"event_id": 43000800, "name": "Chefe Demônio do Sangue", "is_defeated": false, "location_image": "Bosses_locations/Gravesite Plain/Chief_Bloodfiend.png"},
+    {"event_id": 41000800, "name": "Mestre Espadachim Semi-Humano Onze", "is_defeated": false, "location_image": "Bosses_locations/Gravesite Plain/Demi-Human_Swordmaster_Onze.png"},
+    {"event_id": 20000800, "name": "Fera Divina, o Leão Dançante", "is_defeated": false, "location_image": "Bosses_locations/Gravesite Plain/Divine_Beast_Dancing_Lion.png"},
+    {"event_id": 41020800, "name": "Lamentador", "is_defeated": false, "location_image": "Bosses_locations/Gravesite Plain/Lamenter.png"},
+    {"event_id": 2045440800, "name": "Dragão de Chama Fantasma", "is_defeated": false, "location_image": "Bosses_locations/Gravesite Plain/Ghostflame_Dragon.png"},
+    {"event_id": 2048440800, "name": "Rellana, Cavaleira das Luas Gêmeas", "is_defeated": false, "location_image": "Bosses_locations/Gravesite Plain/Rellana_Twin_Moon_Knight.png"}
+  ],
+  "Scadu Altus": [
+    {"event_id": 2049430850, "name": "Cavaleiro Negro Edredd", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Black_Knight_Edredd.png"},
+    {"event_id": 2047450800, "name": "Cavaleiro Negro Garrew", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Black_Knight_Garrew.png"},
+    {"event_id": 2051450701, "name": "Conde Ymir, Mãe dos Dedos", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Count_Ymir_Mother_of_Fingers.png"},
+    {"event_id": 41010800, "name": "Lâmina Amaldiçoada Labirith", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Curseblade_Labirith.png"},
+    {"event_id": 40000800, "name": "Cavaleiro da Morte", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Death_Knight.png"},
+    {"event_id": 2049430800, "name": "Dragão de Chama Fantasma", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Ghostflame_Dragon.png"},
+    {"event_id": 2049440800, "name": "Dane das Folhas Secas", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Dryleaf_Dane.png"},
+    {"event_id": 21000850, "name": "Hipopótamo Dourado", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Golden_Hippopotamus.png"},
+    {"event_id": 21010800, "name": "Messmer, o Empalador", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Messmer_the_Impaler.png"},
+    {"event_id": 25000800, "name": "Metyr, Mãe dos Dedos", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Metyr_Mother_of_Finger.png"},
+    {"event_id": 2051440800, "name": "Rakshasa", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Rakshasa.png"},
+    {"event_id": 2049450800, "name": "Ralva, o Grande Urso Vermelho", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Ralva_the_Great_Red_Bear.png"},
+    {"event_id": 2046450800, "name": "Urso Vermelho", "is_defeated": false, "location_image": "Bosses_locations/Scadu Altus/Red_Bear.png"}
+  ],
+  "Base de Rauh": [
+    {"event_id": 40010800, "name": "Cavaleiro da Morte", "is_defeated": false, "location_image": "Bosses_locations/Rauh Base/Death_Knight.png"},
+    {"event_id": 2044470800, "name": "Rugalea, a Grande Ursa Vermelha", "is_defeated": false, "location_image": "Bosses_locations/Rauh Base/Rugalea_the_Great_Red_Bear.png"}
+  ],
+  "Costa Cerúlea": [
+    {"event_id": 2046380800, "name": "Dançarina de Ranah", "is_defeated": false, "location_image": "Bosses_locations/Cerulean Coast/Dancer_of_Ranah.png"},
+    {"event_id": 2048380850, "name": "Dragão de Chama Fantasma", "is_defeated": false, "location_image": "Bosses_locations/Cerulean Coast/Ghostflame_Dragon.png"},
+    {"event_id": 2046400800, "name": "Rainha Semi-Humana Marigga", "is_defeated": false, "location_image": "Bosses_locations/Cerulean Coast/Demi-Human_Queen_Marigga.png"},
+    {"event_id": 22000800, "name": "Cavaleiro Putrescente", "is_defeated": false, "location_image": "Bosses_locations/Cerulean Coast/Putrescent_Knight.png"}
+  ],
+  "Túmulo Oculto de Charo": [
+    {"event_id": 2047390800, "name": "Pássaro do Ritual da Morte", "is_defeated": false, "location_image": "Bosses_locations/Charo's Hidden Grave/Death_Rite_Bird.png"}
+  ],
+  "Pico Dentilhado": [
+    {"event_id": 43010800, "name": "Homem-Dragão Ancestral", "is_defeated": false, "location_image": "Bosses_locations/Jagged Peak/Ancient_Dragon-man.png"},
+    {"event_id": 2054390850, "name": "Dragão Ancestral Senessax", "is_defeated": false, "location_image": "Bosses_locations/Jagged Peak/Ancient_Dragon_Senessax.png"},
+    {"event_id": 2054390800, "name": "Bayle, o Temido", "is_defeated": false, "location_image": "Bosses_locations/Jagged Peak/Bayle_the_Dread.png"},
+    {"event_id": 2049410800, "name": "Drake do Pico Dentilhado", "is_defeated": false, "location_image": "Bosses_locations/Jagged Peak/Jagged_Peak_Drake1.png"},
+    {"event_id": 2048429205, "name": "Drake do Pico Dentilhado", "is_defeated": false, "location_image": "Bosses_locations/Jagged Peak/Jagged_Peak_Drake2.png"}
+  ],
+  "Bosques Abissais": [
+    {"event_id": 2052430800, "name": "Jori, o Inquisidor Ancião", "is_defeated": false, "location_image": "Bosses_locations/Abyssal Woods/Jori_the_Elder_Inquisitor.png"},
+    {"event_id": 28000800, "name": "Midra, Lorde da Chama Frenética", "is_defeated": false, "location_image": "Bosses_locations/Abyssal Woods/Midra_Lord_of_Frenzied_Flame.png"}
+  ],
+  "Vista de Scadu": [
+    {"event_id": 2052480800, "name": "Besta Estrela Cadente", "is_defeated": false, "location_image": "Bosses_locations/Scaduview/Fallingstar_Beast.png"},
+    {"event_id": 2050480800, "name": "Avatar da Árvore Scadu", "is_defeated": false, "location_image": "Bosses_locations/Scaduview/Scadutree_Avatar.png"},
+    {"event_id": 2049480800, "name": "Comandante Gaius", "is_defeated": false, "location_image": "Bosses_locations/Scaduview/Commander_Gaius.png"},
+    {"event_id": 2050470800, "name": "Sentinela da Árvore (1)", "is_defeated": false, "location_image": "Bosses_locations/Scaduview/Tree_Sentinel_1.png"},
+    {"event_id": 2050480860, "name": "Sentinela da Árvore (2)", "is_defeated": false, "location_image": "Bosses_locations/Scaduview/Tree_Sentinel_2.png"}
+  ],
+  "Ruínas Antigas de Rauh": [
+    {"event_id": 2046460800, "name": "Fera Divina, o Leão Dançante", "is_defeated": false, "location_image": "Bosses_locations/Ancient Ruins of Rauh/Divine_Beast_Dancing_Lion.png"},
+    {"event_id": 2044450800, "name": "Romina, Santa do Broto", "is_defeated": false, "location_image": "Bosses_locations/Ancient Ruins of Rauh/Romina_Saint_of_the_Bud.png"}
+  ],
+  "Enir-Ilim": [
+    {"event_id": 20010800, "name": "Radahn, o Consorte Prometido", "is_defeated": false, "location_image": "Bosses_locations/Enir-Ilim/Promised_Consort_Radahn.png"}
+  ]
+}
