@@ -1,15 +1,15 @@
-; NSIS Installer Script for ER Boss Checklist
+; NSIS Installer Script for Cronicas do Maculado
 
 ;--------------------------------
 ; General
 ;--------------------------------
 
-!define APP_NAME "ER Boss Checklist"
-!define COMPANY_NAME "TheTarnishedChronicle"
-!define APP_VERSION "1.0.6"
-!define EXE_NAME "ER_Boss_Checklist.exe" ; Static EXE name
-!define ICON_FILE "assets\icons\app_logo.ico"
-!define OUTPUT_FILENAME "ER_Boss_Checklist_Setup.exe"
+!define APP_NAME "Cronicas do Maculado"
+!define COMPANY_NAME "CronicasDoMaculado"
+!define APP_VERSION "1.0.0"
+!define EXE_NAME "Cronicas_do_Maculado.exe" ; Static EXE name
+!define ICON_FILE "assets\images\app_logo.ico"
+!define OUTPUT_FILENAME "Cronicas_do_Maculado_Setup.exe"
 
 ;--------------------------------
 ; MUI2 Defines
@@ -65,18 +65,18 @@ Section "!$(DESC_Core)" SEC_CORE
   
   ; Check if app is running and close it
   TryAgain:
-  FindWindow $0 "" "ER Boss Checklist"
+  FindWindow $0 "" "Cronicas do Maculado"
   IntCmp $0 0 NotRunning
-    MessageBox MB_RETRYCANCEL|MB_ICONEXCLAMATION "ER Boss Checklist is currently running.$\n$\nPlease close the application to continue with the update.$\n$\nThe installer will attempt to close it automatically." IDRETRY TryClose IDCANCEL AbortInstall
+    MessageBox MB_RETRYCANCEL|MB_ICONEXCLAMATION "Cronicas do Maculado is currently running.$\n$\nPlease close the application to continue with the update.$\n$\nThe installer will attempt to close it automatically." IDRETRY TryClose IDCANCEL AbortInstall
   TryClose:
     ; Try to close the window
     SendMessage $0 ${WM_CLOSE} 0 0
     Sleep 2000
     ; Check if still running
-    FindWindow $0 "" "ER Boss Checklist"
+    FindWindow $0 "" "Cronicas do Maculado"
     IntCmp $0 0 NotRunning
     ; If still running, try terminate
-    ExecWait 'taskkill /F /IM "ER_Boss_Checklist.exe"'
+    ExecWait 'taskkill /F /IM "Cronicas_do_Maculado.exe"'
     Sleep 1000
     Goto TryAgain
   AbortInstall:

@@ -5,7 +5,7 @@ if (Test-Path -Path "build") { Remove-Item -Recurse -Force "build" }
 
 # Step 2: Run PyInstaller to build the application
 Write-Host "Running PyInstaller to build the application..."
-python -m PyInstaller build.spec
+py -m PyInstaller build.spec
 
 # Check if PyInstaller succeeded by looking for the dist directory
 if (Test-Path -Path "dist") {
