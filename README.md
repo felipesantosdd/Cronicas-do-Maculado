@@ -6,9 +6,9 @@
 
 **O companheiro definitivo de rastreamento de chefes para Elden Ring — em Português do Brasil**
 
-[![Última Versão](https://img.shields.io/github/v/release/felipesenpaidd/A-Cronica-do-Manchado?style=for-the-badge)](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/felipesenpaidd/A-Cronica-do-Manchado/total?style=for-the-badge)](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/releases)
-[![Licença](https://img.shields.io/github/license/felipesenpaidd/A-Cronica-do-Manchado?style=for-the-badge)](LICENSE)
+[![Última Versão](https://img.shields.io/github/v/release/felipesantosdd/A-Cronica-do-Manchado?style=for-the-badge)](https://github.com/felipesantosdd/A-Cronica-do-Manchado/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/felipesantosdd/A-Cronica-do-Manchado/total?style=for-the-badge)](https://github.com/felipesantosdd/A-Cronica-do-Manchado/releases)
+[![Licença](https://img.shields.io/github/license/felipesantosdd/A-Cronica-do-Manchado?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -169,8 +169,8 @@
 
 Se encontrar problemas não cobertos aqui:
 
-1. Verifique as [issues existentes](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/issues)
-2. Crie uma [nova issue](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/issues/new) com:
+1. Verifique as [issues existentes](https://github.com/felipesantosdd/A-Cronica-do-Manchado/issues)
+2. Crie uma [nova issue](https://github.com/felipesantosdd/A-Cronica-do-Manchado/issues/new) com:
    - Descrição detalhada do problema
    - Especificações do seu sistema
    - Passos para reproduzir o problema
@@ -202,8 +202,8 @@ Se encontrar problemas não cobertos aqui:
 
 Encontrou um bug? Por favor, reporte:
 
-1. **Verifique as [issues existentes](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/issues)** para evitar duplicatas
-2. **Crie uma [nova issue](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/issues/new)** com:
+1. **Verifique as [issues existentes](https://github.com/felipesantosdd/A-Cronica-do-Manchado/issues)** para evitar duplicatas
+2. **Crie uma [nova issue](https://github.com/felipesantosdd/A-Cronica-do-Manchado/issues/new)** com:
    - Descrição detalhada do problema
    - Passos para reproduzir o problema
    - Especificações do seu sistema
@@ -211,7 +211,7 @@ Encontrou um bug? Por favor, reporte:
 
 ### 💡 Sugestões de Funcionalidades
 
-Tem uma ideia para uma nova funcionalidade? Crie uma [issue de sugestão](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/issues/new) e descreva sua ideia.
+Tem uma ideia para uma nova funcionalidade? Crie uma [issue de sugestão](https://github.com/felipesantosdd/A-Cronica-do-Manchado/issues/new) e descreva sua ideia.
 
 ---
 
@@ -234,8 +234,8 @@ Este projeto está licenciado sob a Licença MIT — veja o arquivo [LICENSE](LI
 
 **Feito com ❤️ para a comunidade brasileira de Elden Ring**
 
-[⬇️ Baixar Última Versão](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/releases/latest) |
-[🐛 Reportar Bug](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/issues) |
-[💡 Solicitar Recurso](https://github.com/felipesenpaidd/A-Cronica-do-Manchado/issues)
+[⬇️ Baixar Última Versão](https://github.com/felipesantosdd/A-Cronica-do-Manchado/releases/latest) |
+[🐛 Reportar Bug](https://github.com/felipesantosdd/A-Cronica-do-Manchado/issues) |
+[💡 Solicitar Recurso](https://github.com/felipesantosdd/A-Cronica-do-Manchado/issues)
 
 </div>
